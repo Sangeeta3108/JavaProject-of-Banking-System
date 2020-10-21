@@ -1,0 +1,3 @@
+Account Type : Current,Account Number : 123456789,Customer Name : Kirandeep,Balance : $ 2000.0
+Account Type : Saving,Account Number : 987654321,Customer Name : Aarzoo,Balance : $ 1900.0
+Account Type : Current,Account Number : 112233445,Customer Name : Sangeeta,Balance : $ 2100.0
